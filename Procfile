@@ -1,1 +1,0 @@
-web: gunicorn suzuki.wsgi:application
